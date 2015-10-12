@@ -10,6 +10,7 @@ namespace Biblioteka
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
